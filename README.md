@@ -123,7 +123,7 @@ This project uses the OpenWeatherMap API:
 ## Sample Screenshot
 
 <p align="center">
-  <img src="public\src\Screenshot 2025-08-25 104445.png" alt="App Screenshot" width="900" />
+  <img src="public\Screenshot 2025-08-25 104445.png" alt="App Screenshot" width="900" />
 </p>
 
 ## 🤝 Contributing

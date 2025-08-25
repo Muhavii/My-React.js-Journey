@@ -122,7 +122,7 @@ This project uses the OpenWeatherMap API:
 
 ## Sample Screenshot
 
-![App Screenshot](public/screenshot.png)
+![App Screenshot](my-react-app/public/screenshot.png)
 
 ## 🤝 Contributing
 

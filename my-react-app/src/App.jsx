@@ -13,7 +13,7 @@ function App() {
   const [error, setError] = useState(null);
   const [location, setLocation] = useState('London'); // Default location
 
-  const API_KEY = '24386924b23d7e6b88d5573f2a1d3fe3'; // You'll need to get this from OpenWeatherMap
+  const API_KEY = import.meta.env.VITE_OPENWEATHER_API_KEY;
   const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
   const fetchWeatherData = async (city) => {
